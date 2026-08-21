@@ -46,6 +46,14 @@ def root():
         "migrations": "/api/migrations"
     }
 
+@app.get("/healthz")
+def health_check():
+    return {"status": "healthy"}
+
+@app.get("/ping")
+def ping():
+    return {"status": "ok"}
+
 class MigrationRequest(BaseModel):
     maskPII: Optional[bool] = False
     rows: Optional[int] = 1000
