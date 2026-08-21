@@ -1,0 +1,16 @@
+# Ignore backend and non-frontend folders so Vercel doesn't detect server frameworks
+api/
+api/**
+src/
+database/
+etl/
+data-generator/
+data/
+migration_suite.db
+tests/
+*.py
+*.sql
+Dockerfile
+**/__pycache__
+.venv/
+README.md
