@@ -36,6 +36,16 @@ GLOBAL_SETTINGS = {
     "targetPlatform": "CoreBank v2.4 Normalized Core Target"
 }
 
+@app.get("/")
+def root():
+    """Basic service health response for hosting-platform checks."""
+    return {
+        "service": "Core Banking Data Migration API",
+        "status": "healthy",
+        "docs": "/docs",
+        "migrations": "/api/migrations"
+    }
+
 class MigrationRequest(BaseModel):
     maskPII: Optional[bool] = False
     rows: Optional[int] = 1000
