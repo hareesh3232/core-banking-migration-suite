@@ -1,0 +1,301 @@
+CustomerID,SSN,FirstName,LastName,DateOfBirth,Email,Phone,Address,CreatedAt
+CUST-10001,721-12-6989,John,Smith,1995-06-01,john.smith@example.com,+1-744-555-3296,"5307 Main St, Dallas",2022-04-03
+CUST-10002,322-54-4367,Renée,Jones,1999-05-14,renée.jones@example.com,+1-933-555-4744,"557 Main St, Dallas",2020-02-20
+CUST-10003,438-94-1581,Elizabeth,Williams,1998-06-01,elizabeth.williams@example.com,+1-951-555-1047,"2296 Main St, Philadelphia",2020-08-15
+CUST-10004,170-11-4733,Robert,Miller,1015977600,robert.miller@example.com,+1-383-555-3169,"4769 Main St, Dallas",2023-05-21
+CUST-10005,334-29-5034,James,Davis,1999-01-22,james.davis@example.com,+1-793-555-9654,"7115 Main St, San Jose",2022-12-20
+CUST-10006,724-85-8244,Patricia,Jones,1996-03-14,patricia.jones@example.com,+1-882-555-8849,"7417 Main St, Houston",2021-11-08
+CUST-10007,856-94-5227,James,Miller,1954-08-25,james.miller@example.com,+1-896-555-7379,"5963 Main St, Phoenix",2023-07-05
+CUST-10008,250-95-6495,José,Rodriguez,1969-06-03,josé.rodriguez@example.com,+1-567-555-8296,"1149 Main St, Houston",2021-01-07
+CUST-10009,654-55-8059,Patricia,Williams,1986-11-16,patricia.williams@example.com,+1-811-555-1607,"7573 Main St, San Antonio",2023-04-28
+CUST-10010,699-45-1787,Elizabeth,Kovács,1992-04-28,elizabeth.kovács@example.com,+1-272-555-7407,"3392 Main St, San Antonio",2020-07-27
+CUST-10011,143-66-8657,David,Brown,1994-03-31,david.brown@example.com,+1-290-555-9773,"5991 Main St, New York",2022-06-11
+CUST-10012,321-72-1772,Elizabeth,Davis,1968-03-19,elizabeth.davis@example.com,+1-542-555-6607,"5116 Main St, Chicago",2022-03-07
+CUST-10013,725-35-5398,Müller,Davis,1997-02-19,müller.davis@example.com,+1-827-555-4035,"509 Main St, Phoenix",2022-02-04
+CUST-10014,246-13-7683,Müller,O'Connor,1971-11-14,müller.oconnor@example.com,+1-754-555-5053,"7901 Main St, San Antonio",2023-07-12
+CUST-10015,157-13-1050,Michael,Martinez,1970-03-10,michael.martinez@example.com,+1-336-555-2210,"2140 Main St, Dallas",2020-02-11
+CUST-10016,421-82-8791,James,Miller,1959-06-23,james.miller@example.com,+1-484-555-8007,"4258 Main St, San Jose",2022-06-06
+CUST-10017,438-75-7672,Sven,Jones,1983-12-09,sven.jones@example.com,+1-702-555-6946,"9505 Main St, New York",2023-03-16
+CUST-10018,925-31-9305,Sven,Martinez,1978-06-13,sven.martinez@example.com,+1-842-555-4869,"1724 Main St, Houston",2022-08-31
+CUST-10019,618-13-4161,José,Martinez,1990-07-03,josé.martinez@example.com,+1-539-555-6496,"5185 Main St, Phoenix",1624838400
+CUST-10020,793-45-5835,Robert,Brown,1975-05-28,robert.brown@example.com,+1-613-555-1104,"4990 Main St, San Diego",2022-03-21
+CUST-10021,224-85-7703,Robert,St. Cyr,1950-04-30,robert.st.cyr@example.com,+1-631-555-9666,"2521 Main St, New York",2023-07-16
+CUST-10022,728-76-2870,Renée,Garcia,1972-06-13,renée.garcia@example.com,+1-711-555-5755,"2770 Main St, Philadelphia",2023-10-11
+CUST-10023,380-77-7764,John,Rodriguez,1966-09-26,john.rodriguez@example.com,+1-524-555-8703,"8681 Main St, Phoenix",2021-01-17
+CUST-10024,359-53-7881,Elizabeth,Miller,1960-04-17,elizabeth.miller@example.com,+1-267-555-3503,"4715 Main St, San Antonio",2020-11-15
+CUST-10025,589-94-8654,Jennifer,St. Cyr,1987-02-25,jennifer.st.cyr@example.com,+1-273-555-9997,"5838 Main St, New York",2020-12-11
+CUST-10026,585-40-6870,Patricia,Kovács,1968-06-03,patricia.kovács@example.com,+1-974-555-5740,"4172 Main St, San Diego",2023-05-24
+CUST-10027,103-98-2618,Jennifer,O'Connor,19-06-1980,jennifer.oconnor@example.com,+1-528-555-3289,"9157 Main St, Houston",2024-13-45
+CUST-10028,475-56-4392,David,Miller,1959-07-21,david.miller@example.com,+1-859-555-2821,"711 Main St, Phoenix",2022-12-14
+CUST-10029,335-35-7104,José,Davis,1995-03-22,josé.davis@example.com,+1-680-555-2039,"5008 Main St, Philadelphia",2022-05-06
+CUST-10030,422-85-1567,Müller,Kovács,1959-08-14,müller.kovács@example.com,+1-561-555-5758,"5142 Main St, San Jose",2020-01-17
+CUST-10031,500-15-9388,Elizabeth,Brown,1987-12-23,elizabeth.brown@example.com,+1-207-555-7421,"447 Main St, Chicago",2023-12-03
+CUST-10032,885-41-1400,Elizabeth,Jones,1953-10-12,elizabeth.jones@example.com,+1-262-555-3024,"9141 Main St, Philadelphia",2023-11-17
+CUST-10033,594-69-1807,John,Davis,1990-05-30,john.davis@example.com,+1-415-555-5095,"6353 Main St, New York",2021-07-25
+CUST-10034,232-79-3626,David,Brown,1971-03-10,david.brown@example.com,+1-434-555-7570,"1730 Main St, Houston",2022-07-08
+CUST-10035,969-20-9084,François,Davis,1997-12-01,françois.davis@example.com,+1-330-555-2095,"1011 Main St, Dallas",2022-12-14
+CUST-10036,643-39-6651,Sven,Johnson,2000-02-24,sven.johnson@example.com,+1-840-555-4105,"9980 Main St, Philadelphia",2021-03-13
+CUST-10037,631-56-7908,Robert,Davis,1969-12-30,robert.davis@example.com,+1-944-555-5381,"5136 Main St, Philadelphia",2022-02-11
+CUST-10038,865-71-7743,Elizabeth,Garcia,1986-09-09,elizabeth.garcia@example.com,+1-997-555-2207,"9568 Main St, New York",2021-10-31
+CUST-10039,524-35-6949,Linda,Davis,1984-03-06,linda.davis@example.com,+1-561-555-4320,"3996 Main St, New York",2022-06-18
+CUST-10040,167-20-7817,José,Brown,1967-06-26,josé.brown@example.com,+1-764-555-7732,"7252 Main St, Dallas",2023-06-11
+CUST-10041,921-37-5090,José,Rodriguez,1981-11-12,josé.rodriguez@example.com,+1-868-555-9372,"1086 Main St, Chicago",2020-07-20
+CUST-10042,820-41-6426,Robert,St. Cyr,1961-10-28,robert.st.cyr@example.com,+1-596-555-4853,"7778 Main St, Philadelphia",2023-04-29
+CUST-10043,,Mary,Johnson,1969-07-02,mary.johnson@example.com,+1-783-555-7658,"5999 Main St, San Diego",2021-10-29
+CUST-10044,204-69-1855,James,Martinez,1958-09-09,james.martinez@example.com,+1-234-555-8518,"9666 Main St, San Jose",2023-06-03
+CUST-10045,399-39-4250,John,Garcia,1997-04-10,john.garcia@example.com,+1-705-555-8259,"4509 Main St, Houston",2023-03-01
+CUST-10046,191-74-3448,Patricia,Johnson,1993-04-14,patricia.johnson@example.com,+1-575-555-4523,"4735 Main St, San Diego",2021-01-14
+CUST-10047,827-58-7127,James,Miller,1973-07-04,james.miller@example.com,+1-746-555-7208,"3625 Main St, Phoenix",2021-04-14
+CUST-10048,982-83-7871,Jennifer,Davis,1990-04-17,jennifer.davis@example.com,+1-367-555-3724,"9178 Main St, San Diego",2023-04-28
+CUST-10049,439-98-7889,John,Martinez,1979-03-02,john.martinez@example.com,+1-571-555-4419,"6965 Main St, Philadelphia",2023-11-22
+CUST-10050,104-84-4213,Robert,Miller,1953-08-30,robert.miller@example.com,+1-588-555-5414,"4809 Main St, Dallas",2020-05-26
+CUST-10051,218-34-1656,James,Jones,1952-02-14,james.jones@example.com,+1-924-555-9849,"7979 Main St, San Diego",2022-02-07
+CUST-10052,692-40-2098,Elizabeth,Garcia,1958-07-31,elizabeth.garcia@example.com,+1-878-555-8602,"4105 Main St, San Jose",2022-10-24
+CUST-10053,699-62-5099,James,O'Connor,1969-10-16,james.oconnor@example.com,+1-516-555-8564,"2819 Main St, Chicago",2021-12-14
+CUST-10054,689-41-7928,François,Jones,1952-03-29,françois.jones@example.com,+1-750-555-5319,"8452 Main St, San Antonio",2021-02-06
+CUST-10055,383-65-5705,David,O'Connor,1972-12-22,david.oconnor@example.com,+1-334-555-4297,"365 Main St, Dallas",2021-01-05
+CUST-10056,839-65-5522,Linda,Jones,1978-02-08,linda.jones@example.com,+1-325-555-9808,"3885 Main St, San Antonio",2023-10-19
+CUST-10057,434-29-4234,Renée,Johnson,1991-02-09,renée.johnson@example.com,+1-655-555-6047,"3085 Main St, Houston",2021-01-09
+CUST-10058,998-70-1480,François,O'Connor,1957-11-28,françois.oconnor@example.com,+1-643-555-7524,"8247 Main St, Chicago",2020-07-18
+CUST-10059,187-37-7176,Mary,Rodriguez,1986-02-01,mary.rodriguez@example.com,+1-343-555-2133,"6072 Main St, San Antonio",2021-02-12
+CUST-10060,838-41-3622,José,Davis,1954-01-02,josé.davis@example.com,+1-718-555-4623,"2951 Main St, Houston",2022-04-15
+CUST-10061,483-45-1929,John,St. Cyr,1954-07-16,john.st.cyr@example.com,+1-910-555-2083,"4312 Main St, Chicago",2022-04-01
+CUST-10062,,José,St. Cyr,1958-06-08,josé.st.cyr@example.com,+1-348-555-5181,"9943 Main St, San Jose",2020-06-11
+CUST-10063,347-47-2571,Jennifer,Jones,1984-06-22,jennifer.jones@example.com,+1-724-555-4364,"8974 Main St, Chicago",2020-05-23
+CUST-10064,839-52-3882,Jennifer,Jones,1989-05-25,jennifer.jones@example.com,+1-931-555-4062,"2641 Main St, San Antonio",2021-04-13
+CUST-10065,227-30-7186,James,Garcia,1992-05-16,james.garcia@example.com,+1-563-555-5148,"251 Main St, Chicago",2021-12-22
+CUST-10066,656-31-2599,Linda,Brown,1958-06-03,linda.brown@example.com,+1-656-555-8837,"4258 Main St, Dallas",2021-09-09
+CUST-10067,820-95-9772,François,Martinez,1995-05-29,françois.martinez@example.com,+1-528-555-5590,"8986 Main St, Philadelphia",2023-09-29
+CUST-10068,204-68-5051,José,St. Cyr,1960-07-08,josé.st.cyr@example.com,+1-932-555-9789,"7260 Main St, San Diego",2020-03-11
+CUST-10069,580-65-1733,Mary,Brown,1983-12-31,mary.brown@example.com,+1-521-555-4746,"2331 Main St, Dallas",2020-05-03
+CUST-10070,,Robert,Davis,1987-07-13,robert.davis@example.com,+1-206-555-1857,"627 Main St, Houston",2023-05-08
+CUST-10071,172-38-9242,Michael,O'Connor,1994-07-21,michael.oconnor@example.com,+1-670-555-5736,"2904 Main St, New York",2022-11-04
+CUST-10072,703-80-5584,Mary,Garcia,2002-12-13,mary.garcia@example.com,+1-798-555-9691,"2241 Main St, Dallas",2020-08-12
+CUST-10073,775-67-3492,Robert,Martinez,1999-10-02,robert.martinez@example.com,+1-388-555-3062,"7179 Main St, San Jose",2020-09-10
+CUST-10074,913-13-6363,Müller,Williams,1956-12-11,müller.williams@example.com,+1-870-555-3244,"1907 Main St, Dallas",2023-03-25
+CUST-10075,936-54-5946,James,Garcia,2001-08-02,james.garcia@example.com,+1-233-555-5570,"4185 Main St, New York",2020-07-07
+CUST-10076,277-66-9819,Müller,O'Connor,1953-12-17,müller.oconnor@example.com,+1-729-555-6193,"7901 Main St, Chicago",2021-01-07
+CUST-10077,972-84-5609,Jennifer,Jones,1997-06-02,jennifer.jones@example.com,+1-540-555-2773,"5537 Main St, Dallas",2023-12-27
+CUST-10078,936-12-1423,Robert,Brown,1956-10-11,robert.brown@example.com,+1-366-555-6676,"5964 Main St, Phoenix",2022-03-30
+CUST-10079,528-37-9621,Elizabeth,Miller,02-11-1975,elizabeth.miller@example.com,+1-709-555-9191,"2633 Main St, San Diego",2023-03-06
+CUST-10080,314-79-6192,Patricia,Miller,1997-04-21,patricia.miller@example.com,+1-912-555-9931,"9787 Main St, Philadelphia",2021-07-31
+CUST-10081,305-37-3704,David,Johnson,1969-10-23,david.johnson@example.com,+1-224-555-8155,"1978 Main St, Philadelphia",2021-06-27
+CUST-10082,472-74-6477,Michael,Jones,1966-05-19,michael.jones@example.com,+1-364-555-2549,"1420 Main St, New York",2023-09-17
+CUST-10083,209-47-8882,David,Kovács,1970-01-05,david.kovács@example.com,+1-323-555-9345,"6592 Main St, San Diego",2022-01-25
+CUST-10084,992-52-7773,Michael,O'Connor,1971-01-12,michael.oconnor@example.com,+1-447-555-5129,"7627 Main St, New York",2022-02-07
+CUST-10085,578-21-8350,Elizabeth,O'Connor,1973-10-02,elizabeth.oconnor@example.com,+1-529-555-2033,"5683 Main St, San Antonio",2023-10-03
+CUST-10086,594-83-6515,Sven,Rodriguez,1970-02-08,sven.rodriguez@example.com,+1-200-555-4253,"6068 Main St, San Antonio",2023-09-19
+CUST-10087,112-30-4969,Elizabeth,Davis,1952-12-12,elizabeth.davis@example.com,+1-633-555-2626,"2471 Main St, Houston",2023-10-20
+CUST-10088,100-75-6054,David,Brown,1978-09-16,david.brown@example.com,+1-872-555-1816,"9314 Main St, Phoenix",2020-09-23
+CUST-10089,966-54-8816,Linda,Kovács,1988-06-09,linda.kovács@example.com,+1-323-555-1061,"8336 Main St, Dallas",2021-03-07
+CUST-10090,881-61-7416,Robert,St. Cyr,1967-07-15,robert.st.cyr@example.com,+1-239-555-7529,"6755 Main St, Chicago",2022-08-13
+CUST-10091,827-78-6234,Sven,Jones,1977-01-09,sven.jones@example.com,+1-412-555-3076,"4281 Main St, Houston",2022-03-13
+CUST-10092,822-98-2615,James,Johnson,2000-02-07,james.johnson@example.com,+1-243-555-1211,"313 Main St, Philadelphia",2023-02-02
+CUST-10093,288-80-6830,José,Smith,1998-11-21,josé.smith@example.com,+1-965-555-7044,"1400 Main St, San Antonio",2023-09-02
+CUST-10094,235-41-5819,Elizabeth,Johnson,1995-09-17,elizabeth.johnson@example.com,+1-921-555-1423,"4647 Main St, San Diego",1652918400
+CUST-10003,289-57-5833,José,St. Cyr,1963-07-03,josé.st.cyr@example.com,+1-641-555-7672,"7423 Main St, San Diego",2020-11-15
+CUST-10096,826-55-4505,Müller,Martinez,1991-02-14,müller.martinez@example.com,+1-847-555-9045,"4301 Main St, San Antonio",2024-13-45
+CUST-10097,780-88-1344,John,Davis,2002-04-09,john.davis@example.com,+1-983-555-9589,"1815 Main St, Chicago",2021-05-13
+CUST-10098,776-28-2606,Mary,Miller,1973-04-28,mary.miller@example.com,+1-712-555-7762,"7015 Main St, Chicago",2023-06-01
+CUST-10099,188-60-9535,John,Jones,1987-05-31,john.jones@example.com,+1-508-555-7480,"841 Main St, San Antonio",2022-04-23
+CUST-10100,861-21-9796,François,Johnson,1982-04-14,françois.johnson@example.com,+1-911-555-4009,"6428 Main St, Chicago",2020-12-14
+CUST-10101,151-12-6910,Elizabeth,Davis,1975-08-17,elizabeth.davis@example.com,+1-643-555-1612,"5869 Main St, Dallas",2021-12-20
+CUST-10102,587-53-6483,Jennifer,Garcia,1985-08-26,jennifer.garcia@example.com,+1-799-555-8492,"7572 Main St, Chicago",2021-07-03
+CUST-10103,332-73-6730,François,Garcia,1987-04-29,françois.garcia@example.com,+1-320-555-4709,"5806 Main St, Chicago",2020-07-13
+CUST-10104,118-81-5581,Renée,Kovács,1993-01-09,renée.kovács@example.com,+1-266-555-6148,"126 Main St, Chicago",2020-11-16
+CUST-10105,153-14-8997,Linda,Davis,1995-10-18,linda.davis@example.com,+1-301-555-6968,"7455 Main St, Phoenix",2023-05-09
+CUST-10106,419-52-4011,Müller,Davis,2001-04-28,müller.davis@example.com,+1-701-555-8403,"7728 Main St, New York",2021-05-31
+CUST-10107,324-45-4993,David,Miller,1976-08-01,david.miller@example.com,+1-603-555-5001,"828 Main St, Philadelphia",2020-09-25
+CUST-10108,500-63-9357,Linda,Kovács,1962-08-04,linda.kovács@example.com,+1-900-555-2800,"8309 Main St, San Jose",2023-03-03
+CUST-10109,144-16-9222,Patricia,St. Cyr,1971-07-08,patricia.st.cyr@example.com,+1-355-555-1092,"3509 Main St, Philadelphia",2022-07-24
+CUST-10110,416-73-3302,Patricia,Davis,1984-09-06,patricia.davis@example.com,+1-561-555-3050,"1724 Main St, San Diego",2023-05-05
+CUST-10111,936-42-3844,Michael,Smith,1993-05-15,michael.smith@example.com,+1-914-555-1122,"9860 Main St, Phoenix",2022-01-23
+CUST-10112,282-71-9319,Renée,Brown,1998-02-14,renée.brown@example.com,+1-791-555-4948,"2614 Main St, Chicago",2022-08-21
+CUST-10113,331-30-5902,Müller,Davis,1968-03-20,müller.davis@example.com,+1-285-555-8876,"4156 Main St, San Diego",2022-11-17
+CUST-10114,245-35-4780,Elizabeth,O'Connor,1957-03-05,elizabeth.oconnor@example.com,+1-734-555-4219,"3787 Main St, New York",2022-10-05
+CUST-10115,353-58-1794,Mary,Jones,1950-02-14,mary.jones@example.com,+1-390-555-2126,"8019 Main St, San Antonio",2020-03-12
+CUST-10116,354-96-7156,Renée,Rodriguez,1997-12-23,renée.rodriguez@example.com,+1-482-555-3275,"9757 Main St, Chicago",2023-08-24
+CUST-10117,353-86-9801,Elizabeth,Jones,2000-05-16,elizabeth.jones@example.com,+1-278-555-4329,"5850 Main St, Houston",2022-09-05
+CUST-10118,363-74-2716,Müller,Smith,1953-12-10,müller.smith@example.com,+1-582-555-3979,"9424 Main St, Chicago",2023-08-16
+CUST-10119,992-22-8052,John,Kovács,1963-09-10,john.kovács@example.com,+1-837-555-2331,"2864 Main St, San Antonio",2020-09-14
+CUST-10120,919-30-4673,Patricia,Miller,1969-12-11,patricia.miller@example.com,+1-759-555-1385,"7460 Main St, Houston",2023-02-12
+CUST-10121,704-18-7810,Patricia,Garcia,1972-08-01,patricia.garcia@example.com,+1-759-555-1741,"6192 Main St, San Jose",2022-12-24
+CUST-10122,965-11-3876,Michael,Brown,1984-04-30,michael.brown@example.com,+1-723-555-2455,"6999 Main St, Chicago",2022-02-15
+CUST-10123,846-91-2995,Müller,Kovács,1991-04-30,müller.kovács@example.com,+1-819-555-5821,"1598 Main St, San Jose",2023-08-15
+CUST-10124,988-56-8624,Renée,St. Cyr,10/11/1971,renée.st.cyr@example.com,+1-948-555-5207,"7200 Main St, New York",2023-09-28
+CUST-10125,719-51-2298,Mary,Brown,1978-02-02,mary.brown@example.com,+1-999-555-2146,"2667 Main St, Chicago",2020-02-23
+CUST-10126,828-99-7445,Robert,Johnson,1991-05-17,robert.johnson@example.com,+1-467-555-4731,"9934 Main St, Phoenix",2022-11-16
+CUST-10127,418-84-2981,José,Johnson,1990-07-13,josé.johnson@example.com,+1-738-555-6407,"1443 Main St, San Diego",2021-09-24
+CUST-10128,,Renée,Jones,1995-10-07,renée.jones@example.com,+1-290-555-2688,"2704 Main St, Philadelphia",2022-07-07
+CUST-10129,690-32-9637,Jennifer,O'Connor,1953-10-21,jennifer.oconnor@example.com,+1-715-555-3409,"9783 Main St, Chicago",2021-06-11
+CUST-10004,813-53-4143,Sven,Johnson,1958-10-04,sven.johnson@example.com,+1-834-555-3800,"9197 Main St, San Jose",2022-09-08
+CUST-10131,891-67-5648,Mary,Smith,1977-10-25,mary.smith@example.com,+1-275-555-7785,"7132 Main St, San Jose",2021-06-04
+CUST-10132,107-18-2070,Robert,O'Connor,1964-11-30,robert.oconnor@example.com,+1-631-555-3905,"8861 Main St, San Diego",2023-11-16
+CUST-10133,588-48-2051,James,O'Connor,1968-12-07,james.oconnor@example.com,+1-436-555-4237,"981 Main St, San Antonio",2024-13-45
+CUST-10134,706-11-2828,François,Garcia,1996-06-15,françois.garcia@example.com,+1-763-555-2243,"5339 Main St, Philadelphia",2020-12-24
+CUST-10135,170-13-7929,François,Miller,1958-10-20,françois.miller@example.com,+1-364-555-5943,"7846 Main St, Philadelphia",2022-05-01
+CUST-10136,776-48-5879,Jennifer,Garcia,1986-10-18,jennifer.garcia@example.com,+1-834-555-8900,"206 Main St, Dallas",2022-11-28
+CUST-10137,533-68-9215,François,Rodriguez,1953-10-14,françois.rodriguez@example.com,+1-852-555-7925,"3577 Main St, Houston",2023-09-09
+CUST-10138,341-27-1794,Patricia,Martinez,1968-07-25,patricia.martinez@example.com,+1-748-555-6832,"9739 Main St, New York",2021-01-06
+CUST-10139,591-44-2941,Renée,Martinez,1991-09-17,renée.martinez@example.com,+1-211-555-2300,"9060 Main St, San Jose",2022-05-12
+CUST-10140,148-61-3058,Mary,St. Cyr,1985-11-12,mary.st.cyr@example.com,+1-452-555-7038,"1634 Main St, New York",2022-09-06
+CUST-10141,655-38-7875,Müller,Rodriguez,1988-11-05,müller.rodriguez@example.com,+1-672-555-9413,"7148 Main St, San Diego",2023-07-29
+CUST-10142,363-88-1293,Elizabeth,St. Cyr,1978-04-28,elizabeth.st.cyr@example.com,+1-929-555-6694,"9727 Main St, Phoenix",2021-09-21
+CUST-10143,297-41-1283,Linda,St. Cyr,1987-06-02,linda.st.cyr@example.com,+1-405-555-6241,"9201 Main St, San Diego",1581379200
+CUST-10144,983-60-2243,John,Brown,1982-12-03,john.brown@example.com,+1-283-555-6514,"4395 Main St, Philadelphia",2023-01-14
+CUST-10145,322-61-9419,Renée,Martinez,1964-05-20,renée.martinez@example.com,+1-342-555-4260,"7457 Main St, Philadelphia",2021-10-12
+CUST-10146,223-78-1815,John,St. Cyr,07/17/1991,john.st.cyr@example.com,+1-879-555-3756,"6274 Main St, San Jose",2020-10-25
+CUST-10147,830-36-9010,Renée,Davis,1969-07-31,renée.davis@example.com,+1-389-555-8949,"9208 Main St, Houston",2020-06-23
+CUST-10148,260-10-2530,Renée,Davis,1997-09-29,renée.davis@example.com,+1-659-555-1182,"720 Main St, San Diego",2024-13-45
+CUST-10149,543-52-7784,Mary,Martinez,1954-06-06,mary.martinez@example.com,+1-362-555-9028,"6988 Main St, San Jose",27-09-2023
+CUST-10150,157-14-9075,David,Martinez,1968-08-15,david.martinez@example.com,+1-363-555-2955,"9107 Main St, New York",2021-03-23
+CUST-10151,201-70-7737,Sven,Smith,1990-05-08,sven.smith@example.com,+1-632-555-5457,"9300 Main St, Phoenix",2023-05-16
+CUST-10152,501-74-4012,Linda,Martinez,1956-07-16,linda.martinez@example.com,+1-596-555-8435,"1932 Main St, San Jose",2023-12-10
+CUST-10153,653-96-6151,Linda,Brown,1954-10-06,linda.brown@example.com,+1-572-555-4608,"1907 Main St, San Jose",2021-05-02
+CUST-10154,685-83-2028,François,Rodriguez,1990-10-17,françois.rodriguez@example.com,+1-772-555-1089,"4789 Main St, Chicago",2020-12-17
+CUST-10155,389-36-2919,James,Smith,1985-11-05,james.smith@example.com,+1-436-555-3311,"5911 Main St, Houston",2021-04-15
+CUST-10156,939-20-4014,John,Jones,1984-09-24,john.jones@example.com,+1-620-555-9602,"6978 Main St, San Jose",2023-03-14
+CUST-10157,332-82-1556,James,O'Connor,1998-10-29,james.oconnor@example.com,+1-427-555-2610,"924 Main St, San Jose",11-05-2022
+CUST-10158,922-42-9927,David,Garcia,1955-10-05,david.garcia@example.com,+1-745-555-4062,"2113 Main St, San Jose",2023-03-07
+CUST-10001,901-33-8073,David,Brown,1986-08-31,david.brown@example.com,+1-867-555-8248,"6108 Main St, Philadelphia",2021-04-17
+CUST-10160,588-80-1942,Robert,Johnson,1977-04-23,robert.johnson@example.com,+1-932-555-5288,"7439 Main St, New York",2022-04-25
+CUST-10004,816-12-4916,Elizabeth,O'Connor,1982-06-18,elizabeth.oconnor@example.com,+1-367-555-8561,"1262 Main St, Phoenix",2022-08-15
+CUST-10002,799-70-5294,Müller,Smith,1957-03-05,müller.smith@example.com,+1-380-555-5223,"6950 Main St, New York",2020-05-19
+CUST-10163,865-36-8134,James,Kovács,1958-05-15,james.kovács@example.com,+1-651-555-5012,"4863 Main St, New York",2022-10-03
+CUST-10164,240-66-8332,Jennifer,Johnson,1981-04-05,jennifer.johnson@example.com,+1-721-555-2504,"2800 Main St, Dallas",2023-10-18
+CUST-10165,,Sven,Davis,1967-09-05,sven.davis@example.com,+1-224-555-5426,"7283 Main St, Philadelphia",2022-03-13
+CUST-10166,135-50-9241,Robert,O'Connor,1959-11-02,robert.oconnor@example.com,+1-565-555-3279,"2251 Main St, Dallas",2022-09-28
+CUST-10167,767-16-9169,Linda,St. Cyr,1955-08-19,linda.st.cyr@example.com,+1-769-555-3682,"4073 Main St, Chicago",2022-05-06
+CUST-10004,735-93-1209,Renée,Miller,1968-04-11,renée.miller@example.com,+1-591-555-8463,"1661 Main St, Dallas",2020-09-26
+CUST-10169,861-70-9850,John,Kovács,1953-10-04,john.kovács@example.com,+1-982-555-4789,"2133 Main St, Houston",2021-07-18
+CUST-10170,879-83-6936,Mary,Miller,1998-09-17,mary.miller@example.com,+1-668-555-2322,"8041 Main St, Phoenix",2020-07-06
+CUST-10171,984-31-5339,Renée,Brown,1979-05-15,renée.brown@example.com,+1-356-555-4078,"1913 Main St, San Diego",2021-01-05
+CUST-10172,298-13-5889,Sven,Brown,1962-03-03,sven.brown@example.com,+1-712-555-2070,"8392 Main St, Phoenix",2022-09-18
+CUST-10173,,Robert,Rodriguez,1992-05-28,robert.rodriguez@example.com,+1-960-555-6427,"4462 Main St, New York",2022-07-13
+CUST-10174,,James,Davis,1988-12-31,james.davis@example.com,+1-356-555-1653,"1311 Main St, New York",2021-04-21
+CUST-10175,947-12-5144,David,St. Cyr,1987-11-26,david.st.cyr@example.com,+1-962-555-2279,"6256 Main St, Houston",1590105600
+CUST-10176,995-92-8357,John,Smith,1958-05-19,john.smith@example.com,+1-920-555-6310,"6619 Main St, San Antonio",2021-12-27
+CUST-10177,,David,Williams,1973-08-29,david.williams@example.com,+1-614-555-9423,"125 Main St, New York",2021-12-13
+CUST-10178,781-91-2996,Linda,O'Connor,1977-07-13,linda.oconnor@example.com,+1-394-555-6613,"7783 Main St, New York",2020-09-09
+CUST-10179,504-87-5126,Mary,Miller,2001-12-06,mary.miller@example.com,+1-601-555-7222,"6367 Main St, Houston",2023-10-09
+CUST-10180,641-17-4572,Elizabeth,Miller,1983-08-31,elizabeth.miller@example.com,+1-728-555-4571,"6333 Main St, Houston",2023-12-12
+CUST-10181,142-81-5960,Michael,St. Cyr,1954-10-03,michael.st.cyr@example.com,+1-507-555-5397,"4629 Main St, San Antonio",2021-08-08
+CUST-10182,107-33-9150,Robert,Williams,1959-07-01,robert.williams@example.com,+1-815-555-6710,"9713 Main St, Houston",20-02-2022
+CUST-10183,254-68-8081,Müller,Garcia,1970-01-13,müller.garcia@example.com,+1-613-555-5310,"9393 Main St, New York",2023-03-12
+CUST-10184,226-75-4144,Patricia,Smith,1986-02-10,patricia.smith@example.com,+1-787-555-1915,"6259 Main St, San Diego",2023-10-31
+CUST-10185,946-64-4541,Elizabeth,Rodriguez,1971-04-01,elizabeth.rodriguez@example.com,+1-976-555-4619,"553 Main St, Philadelphia",2022-02-17
+CUST-10186,150-83-8327,François,Smith,1998-09-04,françois.smith@example.com,+1-804-555-5420,"1658 Main St, San Antonio",1585180800
+CUST-10187,495-91-2527,Patricia,Jones,07/30/1983,patricia.jones@example.com,+1-558-555-2038,"1128 Main St, San Jose",02/05/2021
+CUST-10188,320-45-7584,David,Jones,1982-03-25,david.jones@example.com,+1-961-555-5164,"6805 Main St, Phoenix",2023-06-11
+CUST-10189,678-18-3787,Michael,Brown,1977-06-14,michael.brown@example.com,+1-240-555-7954,"5019 Main St, Phoenix",2023-12-12
+CUST-10190,840-24-2654,Sven,Davis,1989-04-08,sven.davis@example.com,+1-659-555-4105,"8310 Main St, Dallas",2023-09-05
+CUST-10191,968-61-8870,Patricia,Garcia,1964-08-24,patricia.garcia@example.com,+1-411-555-3273,"1021 Main St, San Diego",2020-04-21
+CUST-10192,904-18-2180,Mary,Garcia,1975-04-09,mary.garcia@example.com,+1-670-555-4047,"9168 Main St, San Diego",2023-09-15
+CUST-10193,457-73-9041,Sven,Davis,1979-12-29,sven.davis@example.com,+1-453-555-6206,"3093 Main St, New York",2023-01-01
+CUST-10194,388-94-3155,Jennifer,Smith,1974-03-04,jennifer.smith@example.com,+1-625-555-7973,"2671 Main St, Houston",2023-12-29
+CUST-10195,667-26-8438,Mary,Kovács,25-08-1985,mary.kovács@example.com,+1-823-555-7277,"8442 Main St, Philadelphia",2022-05-21
+CUST-10196,359-50-1992,Jennifer,Brown,1995-02-15,jennifer.brown@example.com,+1-871-555-3523,"4957 Main St, San Jose",2023-02-18
+CUST-10197,107-30-7048,Jennifer,Williams,1986-07-20,jennifer.williams@example.com,+1-335-555-9784,"2936 Main St, Phoenix",02/07/2022
+CUST-10198,598-95-6301,James,O'Connor,1982-04-03,james.oconnor@example.com,+1-843-555-1689,"8148 Main St, San Diego",2022-03-08
+CUST-10199,902-14-9669,James,Williams,1990-03-17,james.williams@example.com,+1-731-555-4934,"6397 Main St, Philadelphia",2021-03-01
+CUST-10200,124-46-8612,Mary,St. Cyr,1954-08-18,mary.st.cyr@example.com,+1-214-555-9149,"3715 Main St, New York",2022-03-25
+CUST-10201,885-58-5143,Mary,Brown,1951-05-03,mary.brown@example.com,+1-337-555-4005,"6779 Main St, Chicago",2022-05-14
+CUST-10202,146-82-3844,Michael,Kovács,1960-09-02,michael.kovács@example.com,+1-995-555-1797,"3500 Main St, Chicago",2020-06-17
+CUST-10203,684-80-7456,James,Johnson,1999-12-09,james.johnson@example.com,+1-381-555-8861,"5916 Main St, San Jose",2020-11-20
+CUST-10204,524-79-3800,Müller,Miller,1965-11-16,müller.miller@example.com,+1-409-555-3383,"5232 Main St, Phoenix",2022-03-08
+CUST-10205,899-83-1009,François,Jones,1971-11-17,françois.jones@example.com,+1-479-555-2166,"8048 Main St, Houston",2022-09-23
+CUST-10206,968-20-4897,Mary,Kovács,2024-13-45,mary.kovács@example.com,+1-450-555-9171,"207 Main St, Chicago",2021-04-01
+CUST-10003,159-27-9486,Elizabeth,Garcia,1968-06-28,elizabeth.garcia@example.com,+1-414-555-1642,"2909 Main St, Phoenix",2020-02-02
+CUST-10208,851-12-5524,José,Rodriguez,1953-07-24,josé.rodriguez@example.com,+1-495-555-9868,"4839 Main St, Chicago",2022-01-10
+CUST-10209,877-34-6948,José,Davis,1974-05-09,josé.davis@example.com,+1-590-555-3547,"3405 Main St, Dallas",2021-10-05
+CUST-10210,947-19-4370,Patricia,Garcia,1951-02-01,patricia.garcia@example.com,+1-299-555-1792,"4583 Main St, San Antonio",2023-07-11
+CUST-10211,295-40-2689,Linda,Martinez,1999-04-07,linda.martinez@example.com,+1-221-555-7588,"4927 Main St, Phoenix",2021-12-15
+CUST-10212,431-82-1848,José,Williams,1996-10-30,josé.williams@example.com,+1-836-555-2033,"5493 Main St, San Diego",2021-12-12
+CUST-10213,438-51-9022,Sven,Johnson,1969-05-06,sven.johnson@example.com,+1-983-555-3038,"9447 Main St, Houston",2022-12-02
+CUST-10214,613-56-3381,Patricia,Rodriguez,1951-12-15,patricia.rodriguez@example.com,+1-739-555-1032,"535 Main St, Dallas",2021-04-16
+CUST-10215,876-87-6929,Robert,Rodriguez,-316656000,robert.rodriguez@example.com,+1-835-555-1332,"2909 Main St, Phoenix",2023-08-31
+CUST-10216,338-62-2672,Sven,Kovács,1971-06-30,sven.kovács@example.com,+1-738-555-8321,"9577 Main St, Houston",2024-13-45
+CUST-10217,148-57-4809,Michael,Martinez,1961-05-23,michael.martinez@example.com,+1-741-555-4133,"9661 Main St, Phoenix",2020-01-03
+CUST-10218,141-66-8011,Renée,Johnson,1974-01-06,renée.johnson@example.com,+1-908-555-3773,"4484 Main St, San Diego",2020-10-23
+CUST-10219,579-35-9601,Renée,Jones,1997-02-13,renée.jones@example.com,+1-208-555-9017,"834 Main St, New York",2022-02-22
+CUST-10220,227-59-6792,Elizabeth,Johnson,1966-07-29,elizabeth.johnson@example.com,+1-584-555-2152,"496 Main St, Phoenix",2021-01-23
+CUST-10221,311-60-6222,Michael,Johnson,1963-10-27,michael.johnson@example.com,+1-490-555-8228,"829 Main St, Dallas",2023-06-19
+CUST-10222,363-62-2217,Michael,Miller,08/03/1981,michael.miller@example.com,+1-458-555-1280,"4517 Main St, Chicago",2020-12-01
+CUST-10223,604-74-7505,Renée,Williams,1950-05-30,renée.williams@example.com,+1-302-555-4853,"5922 Main St, Dallas",2022-08-07
+CUST-10003,,John,Davis,1998-09-03,john.davis@example.com,+1-241-555-1719,"8113 Main St, New York",2023-01-17
+CUST-10225,319-22-7141,Sven,Jones,2001-08-27,sven.jones@example.com,+1-887-555-7752,"712 Main St, Philadelphia",2022-10-19
+CUST-10226,288-11-7444,Renée,Miller,1962-02-25,renée.miller@example.com,+1-298-555-1986,"2304 Main St, New York",2021-01-12
+CUST-10227,385-81-9000,Elizabeth,Brown,2001-02-18,elizabeth.brown@example.com,+1-646-555-3755,"3486 Main St, Philadelphia",2023-10-12
+CUST-10228,,David,Johnson,2000-05-18,david.johnson@example.com,+1-875-555-8231,"865 Main St, New York",2023-04-27
+CUST-10229,542-64-7411,Michael,Kovács,1963-08-08,michael.kovács@example.com,+1-279-555-8496,"5863 Main St, Chicago",2021-11-06
+CUST-10230,922-86-7313,José,Martinez,1960-04-04,josé.martinez@example.com,+1-353-555-5935,"9728 Main St, Houston",2022-09-11
+CUST-10231,,Patricia,Kovács,1960-04-23,patricia.kovács@example.com,+1-271-555-5366,"3987 Main St, Chicago",2020-06-06
+CUST-10232,176-92-6165,José,Davis,1985-08-21,josé.davis@example.com,+1-793-555-9600,"6987 Main St, Phoenix",2021-01-04
+CUST-10233,534-91-4943,Linda,Rodriguez,1998-05-11,linda.rodriguez@example.com,+1-808-555-6595,"9857 Main St, San Diego",2021-01-24
+CUST-10234,306-14-8593,Robert,Miller,1959-12-14,robert.miller@example.com,+1-629-555-1959,"6607 Main St, Chicago",2021-05-06
+CUST-10235,704-22-1054,Renée,Kovács,1984-09-11,renée.kovács@example.com,+1-612-555-2897,"9889 Main St, Phoenix",2020-05-15
+CUST-10236,961-59-7062,Patricia,Davis,1954-07-21,patricia.davis@example.com,+1-361-555-3566,"9943 Main St, New York",2022-05-21
+CUST-10237,234-33-6017,Elizabeth,Martinez,1963-06-03,elizabeth.martinez@example.com,+1-231-555-8438,"2961 Main St, New York",2021-03-17
+CUST-10238,560-56-7620,Patricia,Garcia,1990-08-16,patricia.garcia@example.com,+1-783-555-6160,"6978 Main St, Dallas",2023-12-19
+CUST-10239,584-14-4243,Patricia,Martinez,1993-08-28,patricia.martinez@example.com,+1-756-555-6643,"9065 Main St, Phoenix",2020-03-02
+CUST-10240,741-16-3258,Michael,Rodriguez,2001-12-28,michael.rodriguez@example.com,+1-596-555-5858,"1241 Main St, New York",2022-10-27
+CUST-10241,434-25-2807,José,Kovács,1984-07-30,josé.kovács@example.com,+1-638-555-9677,"4094 Main St, San Jose",2023-09-01
+CUST-10242,694-42-5101,Michael,Williams,1983-04-06,michael.williams@example.com,+1-686-555-8696,"4100 Main St, Phoenix",2020-02-08
+CUST-10243,371-88-5874,Mary,St. Cyr,1985-05-04,mary.st.cyr@example.com,+1-586-555-8924,"364 Main St, Phoenix",2020-05-27
+CUST-10244,508-44-6008,Jennifer,Martinez,1998-06-26,jennifer.martinez@example.com,+1-648-555-4309,"9531 Main St, Houston",2023-11-11
+CUST-10245,775-51-4205,Müller,Garcia,1957-09-06,müller.garcia@example.com,+1-306-555-2338,"4061 Main St, Phoenix",2022-06-12
+CUST-10246,734-96-6754,Elizabeth,Garcia,1981-10-20,elizabeth.garcia@example.com,+1-263-555-8119,"1308 Main St, Houston",2022-04-07
+CUST-10247,749-41-4506,John,Johnson,1972-06-27,john.johnson@example.com,+1-546-555-7854,"4436 Main St, San Antonio",2021-09-26
+CUST-10248,479-48-1446,Mary,St. Cyr,2001-09-17,mary.st.cyr@example.com,+1-448-555-2556,"7751 Main St, Philadelphia",2020-04-23
+CUST-10249,472-53-5052,John,Kovács,1985-06-30,john.kovács@example.com,+1-512-555-3820,"4944 Main St, San Antonio",2020-12-28
+CUST-10250,306-87-3675,François,Johnson,1956-02-10,françois.johnson@example.com,+1-203-555-5747,"9993 Main St, San Diego",18-09-2023
+CUST-10251,261-43-8593,Jennifer,Kovács,1981-09-10,jennifer.kovács@example.com,+1-246-555-5086,"2113 Main St, Phoenix",2022-05-25
+CUST-10252,292-53-6533,Renée,Jones,1998-04-24,renée.jones@example.com,+1-390-555-8280,"546 Main St, Dallas",2020-07-08
+CUST-10253,756-36-6044,Mary,Davis,1971-01-21,mary.davis@example.com,+1-532-555-5475,"5337 Main St, Phoenix",2022-06-19
+CUST-10254,109-20-7907,John,Jones,1994-11-08,john.jones@example.com,+1-742-555-7876,"7596 Main St, Houston",2023-10-19
+CUST-10255,250-40-2697,José,Jones,1999-12-05,josé.jones@example.com,+1-998-555-9899,"4549 Main St, Dallas",2022-12-26
+CUST-10256,377-67-6987,Sven,Davis,1963-01-29,sven.davis@example.com,+1-782-555-3601,"8043 Main St, San Diego",2021-04-03
+CUST-10257,391-57-2400,José,Brown,1995-04-30,josé.brown@example.com,+1-549-555-5869,"6848 Main St, San Diego",2021-06-05
+CUST-10258,597-62-6497,Robert,Rodriguez,1956-01-03,robert.rodriguez@example.com,+1-641-555-4239,"9969 Main St, Chicago",2022-09-16
+CUST-10259,344-67-1551,François,Garcia,1973-11-27,françois.garcia@example.com,+1-424-555-3096,"8118 Main St, Philadelphia",1638057600
+CUST-10260,429-77-7060,David,Davis,1991-02-21,david.davis@example.com,+1-960-555-9187,"343 Main St, Chicago",1608076800
+CUST-10261,931-89-3066,Jennifer,Kovács,1994-06-10,jennifer.kovács@example.com,+1-775-555-1107,"4212 Main St, Chicago",2023-06-23
+CUST-10262,102-73-3992,Linda,Brown,1963-11-12,linda.brown@example.com,+1-353-555-7688,"5319 Main St, San Diego",2020-08-12
+CUST-10003,540-54-8420,Michael,Rodriguez,1976-01-06,michael.rodriguez@example.com,+1-312-555-1001,"1862 Main St, Dallas",2023-12-20
+CUST-10001,782-63-4138,Linda,Martinez,1970-10-29,linda.martinez@example.com,+1-256-555-3694,"1710 Main St, Phoenix",2022-03-22
+CUST-10265,438-51-9160,David,Davis,1984-03-28,david.davis@example.com,+1-641-555-1779,"5430 Main St, San Antonio",2020-03-08
+CUST-10266,283-95-5605,José,Davis,2024-13-45,josé.davis@example.com,+1-245-555-3823,"1645 Main St, San Jose",2022-12-19
+CUST-10267,897-29-7804,Müller,Martinez,1968-09-06,müller.martinez@example.com,+1-427-555-7913,"122 Main St, Philadelphia",11/04/2021
+CUST-10268,940-61-4557,Patricia,Brown,1979-10-29,patricia.brown@example.com,+1-414-555-2799,"6384 Main St, Philadelphia",2020-03-26
+CUST-10269,924-99-1804,Mary,Rodriguez,1976-05-01,mary.rodriguez@example.com,+1-755-555-7546,"1250 Main St, Dallas",2021-04-23
+CUST-10270,298-76-3651,Linda,St. Cyr,2002-12-03,linda.st.cyr@example.com,+1-503-555-7163,"2254 Main St, San Diego",2023-02-28
+CUST-10271,762-62-5721,Mary,Kovács,1994-04-25,mary.kovács@example.com,+1-649-555-5710,"3792 Main St, Chicago",2021-03-17
+CUST-10272,424-68-2238,Patricia,Smith,2024-13-45,patricia.smith@example.com,+1-553-555-9942,"1533 Main St, Phoenix",2020-08-25
+CUST-10273,680-67-3722,Jennifer,Davis,1998-09-22,jennifer.davis@example.com,+1-635-555-2941,"8807 Main St, Houston",2022-05-31
+CUST-10004,525-29-8633,James,Garcia,2024-13-45,james.garcia@example.com,+1-911-555-9840,"8988 Main St, San Diego",2023-09-11
+CUST-10275,549-89-7432,James,Williams,1993-12-18,james.williams@example.com,+1-737-555-4490,"3957 Main St, San Diego",2023-12-13
+CUST-10276,197-46-4077,François,Garcia,1967-02-20,françois.garcia@example.com,+1-528-555-2446,"3624 Main St, Philadelphia",2021-08-20
+CUST-10277,117-67-5790,Elizabeth,Martinez,1998-09-06,elizabeth.martinez@example.com,+1-496-555-7289,"4546 Main St, Phoenix",2022-07-20
+CUST-10278,403-24-2692,Renée,O'Connor,1982-03-11,renée.oconnor@example.com,+1-679-555-8831,"2673 Main St, San Jose",2022-06-20
+CUST-10279,323-38-7482,François,O'Connor,1976-09-25,françois.oconnor@example.com,+1-725-555-1089,"1734 Main St, Phoenix",2021-12-16
+CUST-10280,673-41-9754,José,Smith,1987-08-23,josé.smith@example.com,+1-778-555-5278,"3142 Main St, Philadelphia",2022-07-16
+CUST-10281,960-37-9877,John,Miller,1967-02-28,john.miller@example.com,+1-846-555-3288,"518 Main St, Chicago",2023-01-23
+CUST-10282,145-73-2736,Elizabeth,Jones,1956-04-27,elizabeth.jones@example.com,+1-558-555-7497,"2161 Main St, Houston",2023-09-13
+CUST-10283,933-75-3007,James,Martinez,1990-02-22,james.martinez@example.com,+1-462-555-6143,"8754 Main St, San Diego",2023-10-08
+CUST-10284,755-96-7241,Patricia,Rodriguez,1965-10-28,patricia.rodriguez@example.com,+1-874-555-7766,"8427 Main St, Houston",2021-10-29
+CUST-10285,116-20-9080,Sven,Johnson,1961-07-29,sven.johnson@example.com,+1-885-555-2944,"1342 Main St, New York",02-05-2023
+CUST-10286,118-43-1038,Robert,Johnson,1995-10-28,robert.johnson@example.com,+1-945-555-5500,"8943 Main St, Chicago",2023-11-08
+CUST-10287,790-48-2955,Müller,Garcia,1962-07-17,müller.garcia@example.com,+1-700-555-4198,"1236 Main St, Houston",2020-01-03
+CUST-10288,204-98-9560,Patricia,Jones,1973-01-31,patricia.jones@example.com,+1-659-555-9624,"3595 Main St, San Diego",2023-10-29
+CUST-10289,155-66-1616,James,Rodriguez,1992-05-11,james.rodriguez@example.com,+1-676-555-5961,"9900 Main St, San Antonio",2023-10-18
+CUST-10290,185-11-1113,Linda,Williams,1982-10-17,linda.williams@example.com,+1-857-555-6861,"9050 Main St, San Diego",2023-07-29
+CUST-10291,660-19-4302,José,Garcia,1966-11-14,josé.garcia@example.com,+1-714-555-6914,"1528 Main St, New York",26-02-2022
+CUST-10292,114-56-7472,James,Brown,1992-03-10,james.brown@example.com,+1-742-555-9169,"3188 Main St, New York",2020-06-10
+CUST-10293,462-13-7070,José,Johnson,1971-02-15,josé.johnson@example.com,+1-354-555-1037,"4429 Main St, San Antonio",2021-05-02
+CUST-10294,134-72-1854,Elizabeth,Johnson,1991-05-07,elizabeth.johnson@example.com,+1-237-555-2221,"2087 Main St, San Diego",2022-01-09
+CUST-10295,887-29-7969,John,Brown,1979-01-03,john.brown@example.com,+1-745-555-4457,"2928 Main St, Chicago",2020-09-15
+CUST-10296,383-73-9210,François,Davis,1980-12-27,françois.davis@example.com,+1-457-555-6636,"6876 Main St, Dallas",2021-12-21
+CUST-10297,448-12-5006,David,Smith,1986-06-05,david.smith@example.com,+1-231-555-7021,"5368 Main St, San Jose",2023-01-19
+CUST-10298,472-17-7752,Müller,St. Cyr,1966-03-21,müller.st.cyr@example.com,+1-617-555-1757,"7906 Main St, New York",2022-05-31
+CUST-10299,169-52-8049,José,Brown,1967-07-12,josé.brown@example.com,+1-453-555-9186,"6890 Main St, San Diego",2022-05-31
+CUST-10300,804-48-9944,Sven,Miller,1954-12-20,sven.miller@example.com,+1-230-555-8925,"448 Main St, Phoenix",2021-11-19

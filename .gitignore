@@ -1,0 +1,40 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+
+# Local database and runtime files
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Node / Vite
+dashboard/node_modules/
+dashboard/dist/
+.dashboard-cache/
+
+# .NET build output
+**/bin/
+**/obj/
+
+# Environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test and coverage output
+.coverage
+htmlcov/
+coverage/
+
+# OS temporary files
+*.tmp
+*.temp
