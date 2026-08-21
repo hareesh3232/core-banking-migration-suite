@@ -6,6 +6,7 @@ import RunDetailView from './components/RunDetailView';
 import AuditTrailView from './components/AuditTrailView';
 import SettingsView from './components/SettingsView';
 import TriggerRunModal from './components/TriggerRunModal';
+import { apiUrl } from './api';
 
 export default function App() {
   const [activeTab, setActiveTab] = useState('overview');
@@ -21,7 +22,7 @@ export default function App() {
   const fetchRuns = async () => {
     setLoading(true);
     try {
-      const res = await fetch('/api/migrations');
+      const res = await fetch(apiUrl('/api/migrations'));
       const json = await res.json();
       setRuns(json);
     } catch (e) {

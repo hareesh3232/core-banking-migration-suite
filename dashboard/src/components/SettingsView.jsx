@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Shield, Database, Lock, Server, CheckCircle2, Save } from 'lucide-react';
+import { apiUrl } from '../api';
 
 export default function SettingsView() {
   const [settings, setSettings] = useState({
@@ -17,7 +18,7 @@ export default function SettingsView() {
 
   const fetchSettings = async () => {
     try {
-      const res = await fetch('/api/settings');
+      const res = await fetch(apiUrl('/api/settings'));
       const json = await res.json();
       setSettings(json);
     } catch (e) {
@@ -28,7 +29,7 @@ export default function SettingsView() {
   const handleSave = async (newPiiState) => {
     setSaving(true);
     try {
-      const res = await fetch('/api/settings', {
+      const res = await fetch(apiUrl('/api/settings'), {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ ...settings, piiMaskingEnabled: newPiiState })

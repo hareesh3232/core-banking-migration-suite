@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Search, Filter, RefreshCw, FileText, CheckCircle2, AlertTriangle, XCircle } from 'lucide-react';
+import { apiUrl } from '../api';
 
 export default function AuditTrailView() {
   const [logs, setLogs] = useState([]);
@@ -20,7 +21,7 @@ export default function AuditTrailView() {
       if (statusFilter) url += `&status=${statusFilter}`;
       if (searchTerm) url += `&search=${encodeURIComponent(searchTerm)}`;
 
-      const res = await fetch(url);
+      const res = await fetch(apiUrl(url));
       const json = await res.json();
       setLogs(json);
     } catch (e) {

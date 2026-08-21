@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { X, Play, Shield, Sliders } from 'lucide-react';
+import { apiUrl } from '../api';
 
 export default function TriggerRunModal({ isOpen, onClose, onSuccess }) {
   const [rows, setRows] = useState(1000);
@@ -13,7 +14,7 @@ export default function TriggerRunModal({ isOpen, onClose, onSuccess }) {
     e.preventDefault();
     setLoading(true);
     try {
-      const res = await fetch('/api/migrations/run', {
+      const res = await fetch(apiUrl('/api/migrations/run'), {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

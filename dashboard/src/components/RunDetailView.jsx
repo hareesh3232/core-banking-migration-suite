@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { ArrowLeft, CheckCircle2, AlertTriangle, XCircle, ShieldCheck, FileSpreadsheet, Filter } from 'lucide-react';
+import { apiUrl } from '../api';
 
 export default function RunDetailView({ runId, onBack }) {
   const [data, setData] = useState(null);
@@ -13,7 +14,7 @@ export default function RunDetailView({ runId, onBack }) {
   const fetchReconciliation = async () => {
     setLoading(true);
     try {
-      const res = await fetch(`/api/migrations/${runId}/reconciliation`);
+      const res = await fetch(apiUrl(`/api/migrations/${runId}/reconciliation`));
       const json = await res.json();
       setData(json);
     } catch (e) {
